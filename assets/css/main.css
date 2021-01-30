@@ -18,6 +18,11 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	#over1.img, #over2 img, #over3 img, #over4 img, #over5 img, #over6 img, #over7 img, #over8 img, #over9 img {
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -1785,11 +1790,11 @@
 	}
 
 	strong, b {
-		color: #c21e56;
+		color: #000000;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #f64a8a;
 	}
 
 	blockquote {
