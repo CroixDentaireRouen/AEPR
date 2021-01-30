@@ -1786,7 +1786,7 @@
 	}
 
 	a {
-		color: #8a4680;
+		color: #f64a8a;
 	}
 
 	strong, b {
@@ -1852,7 +1852,7 @@
 			}
 
 		.box .content {
-			padding: 3rem;
+			padding: 0;
 		}
 
 		.box > :last-child,
@@ -1870,7 +1870,7 @@
 		@media screen and (max-width: 736px) {
 
 			.box .content {
-				padding: 2rem;
+				padding: 0;
 			}
 
 		}
